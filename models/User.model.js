@@ -1,0 +1,1 @@
+//Le schéma mongodb pour créer les documents qui vont lier un utilisateur github à son pseudo discord

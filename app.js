@@ -1,0 +1,1 @@
+//Ici ça sera la logique et le corps du bot, la connexion et l'utilisation des fichiers dans /lib
